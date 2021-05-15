@@ -86,7 +86,7 @@ a {
 }
 
 a:hover {
-  color:blue;
+  color:#8080ff;
 }
 p:before{
   content: "";
