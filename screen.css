@@ -78,7 +78,7 @@ h3 {
 	width:100%;
 }
 a {
-    color:#FFFFFF;
+    color:#165B84;
 	/*Transition*/
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
@@ -86,7 +86,7 @@ a {
 }
 
 a:hover {
-  color:#348C1A;
+  color:#3BA1DB;
 }
 p:before{
   content: "";
