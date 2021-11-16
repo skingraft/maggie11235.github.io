@@ -78,7 +78,7 @@ h3 {
 	width:100%;
 }
 a {
-    color:#165B84;
+    color:#c20fff;
 	/*Transition*/
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
@@ -98,7 +98,7 @@ p:before{
 	width:230px;
 	margin-right:10px;
 	margin-bottom:10px;
-	border:10px solid #d7d7d7;
+	border:5px solid #c20fff;
 }
 .pics {
 	width:150px;
